@@ -1,0 +1,9 @@
+pandas>=2.1,<3.0
+numpy>=1.26,<3.0
+scikit-learn>=1.4,<2.0
+cvxpy>=1.4,<2.0
+streamlit>=1.32,<2.0
+plotly>=5.18,<6.0
+joblib>=1.3,<2.0
+# Optional: used only by fetch_data.py for a one-time historical download.
+yfinance>=0.2,<1.0
