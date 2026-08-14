@@ -1,6 +1,5 @@
 # Aura Ledger
 
-**TECHBEEZ | Inceptia National Level Hackathon - Web3 & Fintech**
 
 Aura Ledger is an offline-first portfolio crash-protection prototype. It detects abnormal market stress, moves a simulated portfolio from equity into gold and cash, confirms recovery, then re-enters the same equity proxy. Every decision is recorded in a tamper-evident hash chain.
 
