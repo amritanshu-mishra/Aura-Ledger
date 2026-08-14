@@ -87,3 +87,10 @@ The dashboard precomputes the backtest once and reveals it progressively, keepin
 - The included dataset is deterministic demonstration data; replace it with audited historical data before making performance claims.
 - The hash chain makes local edits detectable but is not a deployed blockchain.
 - A real deployment needs regulated execution, data governance, monitoring, risk limits, and jurisdiction-specific compliance (including SEBI requirements where applicable).
+
+## Team Details
+Team Name TechBeez
+Team Lead Amritanshu Mishra
+Team Member Amritanshu Mishra and Samridhi Mishra(co-lead)
+Track Fintech
+Contact amritanshumishra06@gmail.com & 8318326027
