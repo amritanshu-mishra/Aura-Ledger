@@ -1,0 +1,15 @@
+{
+  "kind": "historical_market_data",
+  "provider": "Yahoo Finance via yfinance",
+  "assets": {
+    "equity": "^GSPC",
+    "gold": "GLD"
+  },
+  "coverage": "2007-2023",
+  "regimes": [
+    "2008 Global Financial Crisis",
+    "2018 Q4 selloff",
+    "2020 COVID crash",
+    "2022 drawdown"
+  ]
+}
